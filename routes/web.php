@@ -14,7 +14,10 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    return view('welcome');
+ dd('here is inertia');
+//    return view('welcome');
+
+
 });
 
 

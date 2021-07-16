@@ -1,0 +1,94 @@
+Customers
+ - Code
+ - Name
+ - Email Address
+ - Phone No.
+ - Discount Group
+ - Price Group
+ - Posting Group
+ - VAT Posting Group
+ - Blocked
+ - Category
+ - Responsibility Centre
+ 
+Customer Responsibility Centres
+ - Code
+ - Description
+
+Customer Categories
+ - Code
+ - Description
+ 
+VAT Posting Groups
+ -Code
+ -Description
+ -Type (Item/Merchant)
+ 
+
+Ship-to Address
+ - Code
+ - Customer Code
+ - Physical Address
+ - Postal Address
+ - Route
+ 
+Routes
+ - Code
+ - Description
+ 
+  
+ Customer Posting Groups
+  - Code
+  - Description
+  
+ Customer Price Groups
+  - Code
+  - Description
+ 
+ Customer Discount Groups
+  - Code
+  - Description
+ 
+ 
+ Item
+  - Code
+  - Description
+  - Standard Cost
+  - Replenishment Method
+  - Last Direct Cost
+  - Unit Price
+  - Base Unit of Measure
+  - Sales Unit of Measure
+  - Purchase Unit of Measure
+  - Posting Group
+  - Discount Group
+  - VAT Posting Group
+  - Blocked
+  
+ 
+ Salesperson
+  - Code
+  - Name
+  - Phone No
+  - Current Route
+  - Blocked
+  
+  
+Sales Header
+ - Document Type
+ - No.
+ - Sell-to Customer
+ - Bill-to Customer
+ - Document Date
+ - Shipment Date
+ - Posting Date
+ - Series Code
+ 
+ 
+No Series
+- Series Code
+- Last No Used
+- Last Date Used
+
+
+
